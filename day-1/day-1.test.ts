@@ -1,4 +1,3 @@
-import { describe } from 'node:test'
 import { parseNumberFromLine, sumOfAllLinesPart1 } from './part-1'
 import { parseNumberFromNumberWords, sumOfAllLinesPart2 } from './part-2'
 
